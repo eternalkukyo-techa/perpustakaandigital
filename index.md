@@ -18,3 +18,4 @@ Berikut ini adalah Koleksi yang dimiliki:
 14. [Hizkia Barakh_Rangkuman_UGC_Transformasi Perpustakaan Cerdas Melalui Teknologi Informasi](<ebook/Hizkia Barakh_Rangkuman_UGC_Transformasi Perpustakaan Cerdas Melalui Teknologi Informasi.pdf>) - Hizkia Barakh (2026)
 ---
 *Powered by GitHub Pages*
+*Hizkia Barakh Khara - 13040124140143*
