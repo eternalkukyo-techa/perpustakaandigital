@@ -15,5 +15,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 11. [Fate Strange Fake - Vol.9](<ebook/Fate Strange Fake - Vol.9.pdf>) - Ryohgo Narita (2024)
 12. [Kino no Tabi - Visual Novel 1 - Land of Memories - Their Memories](<ebook/Kino no Tabi - Visual Novel 1 - Land of Memories - Their Memories.pdf>) - Keiichi Sigsawa (2003)
 13. [Kino no Tabi - Visual Novel 2](<ebook/Kino no Tabi - Visual Novel 2.pdf>) - Keiichi Sigsawa (2005)
+14. [Hizkia Barakh_Rangkuman_UGC_Transformasi Perpustakaan Cerdas Melalui Teknologi Informasi](<ebook/Hizkia Barakh_Rangkuman_UGC_Transformasi Perpustakaan Cerdas Melalui Teknologi Informasi.pdf>) - Hizkia Barakh (2026)
 ---
 *Powered by GitHub Pages*
